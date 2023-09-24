@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tayyabrana492
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Tayyab Rana
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Programming
+- 💞️ I’m looking to collaborate on IT Projects
+- 📫 Reach me in DM
 
 <!---
 tayyabrana492/tayyabrana492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
