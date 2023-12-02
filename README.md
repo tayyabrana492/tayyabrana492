@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Tayyab Rana
+- 👋 Hi, I’m Muhammad Tayyab
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on IT Projects
